@@ -17,7 +17,8 @@
 *.pydevproject
 
 main
-Output.bmp
+output.bmp
+cmakebuild
 
 xor.pro.user
 build-xor*
